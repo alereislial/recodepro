@@ -1,0 +1,83 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:bolder;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formasdepagamento{
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+
+
+/*Index*/
+
+.menu {
+    background-color:#FF0000;
+    padding:15px; 
+}
+
+.menu a{
+    color:white;
+    text-decoration:none;
+}
+
+/*Produtos*/
+
+.font1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:2;
+}
+
+.font2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:4;
+    color:red;
+}
+
+.prodt {
+    width:50%; 
+    text-align:center; 
+    vertical-align:bottom;
+}
+
+.lista{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bolder;
+    font-size: 18px;
+    list-style-type: decimal;
+    width: 20%;
+    vertical-align: bottom;
+    padding: 10px;
+    color:black;
+
+
+}
+
+.teste{
+    margin-right: 60px;
+    margin-bottom:40px;
+    padding: 80px;
+    font-size:20px;
+}
+
+
+
+#rodape{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:2;
+}
+
+#float{
+    float:right;
+}
+
